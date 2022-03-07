@@ -115,6 +115,8 @@ ul {
   box-shadow: 0 3px 5px rgba(0, 0, 0, 0.5);
 }
 
+/* Media queries */
+
 @media (max-width: 768px) {
   .header .container {
     flex-direction: column;
